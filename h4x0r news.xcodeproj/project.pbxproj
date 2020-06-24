@@ -111,9 +111,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D4E1178024A36FC600E892B2 /* h4xor news */ = {
+		D4E1178024A36FC600E892B2 /* h4x0r news */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D4E1179524A36FC800E892B2 /* Build configuration list for PBXNativeTarget "h4xor news" */;
+			buildConfigurationList = D4E1179524A36FC800E892B2 /* Build configuration list for PBXNativeTarget "h4x0r news" */;
 			buildPhases = (
 				D4E1177D24A36FC600E892B2 /* Sources */,
 				D4E1177E24A36FC600E892B2 /* Frameworks */,
@@ -123,7 +123,7 @@
 			);
 			dependencies = (
 			);
-			name = "h4xor news";
+			name = "h4x0r news";
 			productName = "h4xor news";
 			productReference = D4E1178124A36FC600E892B2 /* h4x0r news.app */;
 			productType = "com.apple.product-type.application";
@@ -143,7 +143,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D4E1177C24A36FC600E892B2 /* Build configuration list for PBXProject "h4xor news" */;
+			buildConfigurationList = D4E1177C24A36FC600E892B2 /* Build configuration list for PBXProject "h4x0r news" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -156,7 +156,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D4E1178024A36FC600E892B2 /* h4xor news */,
+				D4E1178024A36FC600E892B2 /* h4x0r news */,
 			);
 		};
 /* End PBXProject section */
@@ -365,7 +365,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D4E1177C24A36FC600E892B2 /* Build configuration list for PBXProject "h4xor news" */ = {
+		D4E1177C24A36FC600E892B2 /* Build configuration list for PBXProject "h4x0r news" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D4E1179324A36FC800E892B2 /* Debug */,
@@ -374,7 +374,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D4E1179524A36FC800E892B2 /* Build configuration list for PBXNativeTarget "h4xor news" */ = {
+		D4E1179524A36FC800E892B2 /* Build configuration list for PBXNativeTarget "h4x0r news" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D4E1179624A36FC800E892B2 /* Debug */,
