@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D4E1178124A36FC600E892B2 /* h4xor news.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "h4xor news.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4E1178124A36FC600E892B2 /* h4x0r news.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "h4x0r news.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4E1178424A36FC600E892B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4E1178624A36FC600E892B2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D4E1178824A36FC600E892B2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		D4E1177824A36FC600E892B2 = {
 			isa = PBXGroup;
 			children = (
-				D4E1178324A36FC600E892B2 /* h4xor news */,
+				D4E1178324A36FC600E892B2 /* h4x0r news */,
 				D4E1178224A36FC600E892B2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -56,12 +56,12 @@
 		D4E1178224A36FC600E892B2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D4E1178124A36FC600E892B2 /* h4xor news.app */,
+				D4E1178124A36FC600E892B2 /* h4x0r news.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D4E1178324A36FC600E892B2 /* h4xor news */ = {
+		D4E1178324A36FC600E892B2 /* h4x0r news */ = {
 			isa = PBXGroup;
 			children = (
 				D4E1178424A36FC600E892B2 /* AppDelegate.swift */,
@@ -73,7 +73,7 @@
 				D4E1179224A36FC800E892B2 /* Info.plist */,
 				D4E1178C24A36FC800E892B2 /* Preview Content */,
 			);
-			path = "h4xor news";
+			path = "h4x0r news";
 			sourceTree = "<group>";
 		};
 		D4E1178C24A36FC800E892B2 /* Preview Content */ = {
@@ -120,7 +120,7 @@
 			);
 			name = "h4xor news";
 			productName = "h4xor news";
-			productReference = D4E1178124A36FC600E892B2 /* h4xor news.app */;
+			productReference = D4E1178124A36FC600E892B2 /* h4x0r news.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -325,8 +325,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.vt.h4xor-news";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.vt.h4x0r-news";
+				PRODUCT_NAME = "h4x0r news";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -345,8 +345,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.vt.h4xor-news";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.vt.h4x0r-news";
+				PRODUCT_NAME = "h4x0r news";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
